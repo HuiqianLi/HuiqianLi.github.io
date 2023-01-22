@@ -19,9 +19,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: emo人 #Liberté   # the main title
+title: emo人   # the main title
 
-tagline: Fighting! # Freedom🗽
+tagline: Fighting! 
 # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
@@ -40,7 +40,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: emo
-  email:              # change to your email address
+  email: huiqian@mail.ustc.edu.cn              # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
