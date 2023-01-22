@@ -1,21 +1,15 @@
-# [HomePage](https://xuyanshi.github.io)
+# [HomePage](https://moqixis.github.io)
 
 
-![GitHub watchers](https://img.shields.io/github/watchers/xuyanshi/xuyanshi.github.io?style=social) 
-![GitHub stars](https://img.shields.io/github/stars/xuyanshi/xuyanshi.github.io?style=social) 
-![GitHub followers](https://img.shields.io/github/followers/xuyanshi?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Moqixis/moqixis.github.io?style=social) 
+![GitHub stars](https://img.shields.io/github/stars/Moqixis/moqixis.github.io?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/Moqixis?style=social)
 
 ## A blog of mine.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/xuyanshi/xuyanshi.github.io?style=flat-square) 
-![GitHub repo size](https://img.shields.io/github/repo-size/xuyanshi/xuyanshi.github.io?style=flat-square) 
-![GitHub](https://img.shields.io/github/license/xuyanshi/xuyanshi.github.io?style=flat-square)
-
-<!--
-![GitHub forks](https://img.shields.io/github/forks/xuyanshi/xuyanshi.github.io?style=social) 
-[![LastCommit](https://img.shields.io/github/last-commit/xuyanshi/xuyanshi.github.io?style=flat-square)](https://github.com/xuyanshi/xuyanshi.github.io)
-![GitHub language count](https://img.shields.io/github/languages/count/xuyanshi/xuyanshi.github.io) 
--->
+![GitHub last commit](https://img.shields.io/github/last-commit/Moqixis/moqixis.github.io?style=flat-square) 
+![GitHub repo size](https://img.shields.io/github/repo-size/Moqixis/moqixis.github.io?style=flat-square) 
+![GitHub](https://img.shields.io/github/license/Moqixis/moqixis.github.io?style=flat-square)
 
 <!--
 
