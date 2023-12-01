@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+permalink: /links/
+title: "Links"
 author_profile: true
 redirect_from: 
   - /md/
@@ -10,3 +10,4 @@ redirect_from:
 ## Links of my relatives
 
 * [my love](https://xuyanshi.github.io/)
+
