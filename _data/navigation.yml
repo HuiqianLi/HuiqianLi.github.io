@@ -7,10 +7,10 @@ main:
     url: /experience/    
 
   - title: "News"
-    url: /teaching/    
+    url: /news/    
     
   - title: "Hobbies"
-    url: /portfolio/
+    url: /hobbies/
         
   - title: "Blog Posts"
     url: /year-archive/

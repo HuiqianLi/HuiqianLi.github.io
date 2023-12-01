@@ -13,5 +13,5 @@ redirect_from:
 
 ##  Conference
 
-- [academicpages](https://academicpages.github.io/), and its repository is [here](https://github.com/academicpages/academicpages.github.io). 
+- [academicpages](https://academicpages.github.io/), and its repository at [here](https://github.com/academicpages/academicpages.github.io). 
 
