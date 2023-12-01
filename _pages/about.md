@@ -16,6 +16,6 @@ You can find my CV here: [Not updated yet].
 
 [Email](mailto:huiqian@mail.ustc.edu.cn) / [Github](https://github.com/HuiqianLi) / [LinkedIn](https://www.linkedin.com/in/cheyannelee/) / [Wechat]()
 
-For more info
+for more info
 ======
 I think that academics are not the whole of life, and this home page will contain others. 
