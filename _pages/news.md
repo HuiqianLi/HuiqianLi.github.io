@@ -1,18 +1,10 @@
 ---
 permalink: /news/
-title: ""
+title: "News"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
-
-## graduate
-
-
-
-
-
-
 
 no news.
