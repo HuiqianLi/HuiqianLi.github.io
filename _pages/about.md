@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year graduate student from [IAT](https://iat.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes computer vision and medical image processing.
+I'm a second year graduate student from [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes computer vision and medical image processing.
 
 I am very fortunate to be advised by Prof. Han from Northwestern Polytechnical University. 
 
