@@ -17,10 +17,9 @@ Education
 
 Work experience
 ======
-* Summer 2022: Intern
-  * Institute of Artificial Intelligence, Hefei Comprehensive National Science Center
-  * Duties included: Polyp detection algorithm
-  * Supervisor: Professor Han
+* Jan 2024 - Present: Intern
+  * HiDream.ai, Mechine Learning Engineer, Beijing, China
+  * Duties included: Senmantic Segmentation, Hair Segmentation
   
 Skills
 ======

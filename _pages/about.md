@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year graduate student from [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes computer vision and medical image processing.
+I'm a second year graduate student from [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes computer vision, especially in the field of  medical image processing and senmatic segmentation.
 
 I am very fortunate to be advised by Prof. Han from Northwestern Polytechnical University. 
 
 You can find my CV here: [Not updated yet].
 
-[Email](mailto:huiqian@mail.ustc.edu.cn) / [Github](https://github.com/HuiqianLi) / [LinkedIn](https://www.linkedin.com/in/cheyannelee/) / [Wechat]()
+[Email](mailto:huiqian@mail.ustc.edu.cn) / [Github](https://github.com/HuiqianLi) / [LinkedIn](https://www.linkedin.com/in/cheyannelee/)
 
 for more info
 ======
