@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year graduate student from [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes computer vision, especially in the field of  medical image processing and senmatic segmentation.
+I'm a second year graduate student from [University of Science and Technology of China](https://www.ustc.edu.cn/). My research interest includes computer vision, especially in the field of  Medical Image Analysis, Semantic Segmentation and Generation Model.
 
 I am very fortunate to be advised by Prof. Han from Northwestern Polytechnical University. 
 

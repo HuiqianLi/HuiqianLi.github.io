@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in the School of Computer Science, Sichuan University, 2017
-* M.S. in  IAT,  University of Science and Technology of China, 2022
+* B.S. in the School of Computer Science, Sichuan University, 2021
+* M.S. in  IAT,  University of Science and Technology of China, 2025
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
@@ -33,7 +33,7 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Others
 ======
 * None
