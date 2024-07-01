@@ -7,4 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-no news.
+2024/7/1: 🎉Our paper has been accepted by **MICCAI2024** !
