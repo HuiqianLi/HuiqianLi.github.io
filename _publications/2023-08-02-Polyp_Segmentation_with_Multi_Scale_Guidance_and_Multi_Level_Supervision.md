@@ -10,4 +10,4 @@ paperurl: 'https://ieeexplore.ieee.org/document/10528397'
 ---
 This paper is about polyp segmentation. 
 
-[Download paper here](http://academicpages.github.io/files/https://ieeexplore.ieee.org/document/10528397)
+[Download paper here](https://ieeexplore.ieee.org/document/10528397)
