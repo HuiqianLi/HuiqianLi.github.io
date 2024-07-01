@@ -10,4 +10,4 @@ paperurl: 'https://ieeexplore.ieee.org/document/10528397'
 ---
 This paper is about polyp segmentation. 
 
-[Download paper here](http://academicpages.github.io/files/Polyp_Segmentation_with_Multi_Scale_Guidance_and_Multi_Level_Supervision.pdf)
+[Download paper here](http://academicpages.github.io/files/https://ieeexplore.ieee.org/document/10528397)
