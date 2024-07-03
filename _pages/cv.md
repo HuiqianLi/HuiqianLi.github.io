@@ -11,20 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in the School of Computer Science, Sichuan University, 2021
-* M.S. in  IAT,  University of Science and Technology of China, 2025
+* B.Eng. in the School of Computer Science, Sichuan University, 2021
+* M.Eng. in  IAT,  University of Science and Technology of China, 2025
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
 * Jan 2024 - Present: Intern
-  * HiDream.ai, Mechine Learning Engineer, Beijing, China
-  * Duties included: Senmantic Segmentation, Hair Segmentation
+  * HiDream.ai, Machine Learning Engineer, Beijing, China
+  * Duties included: Semantic Segmentation, Hair Segmentation
   
 Skills
 ======
-* Python
-  * Pytorch
+* Python、Pytorch
 * PS
 * Data visualization
 
