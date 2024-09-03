@@ -1,7 +1,7 @@
 ---
 title: "ASPS: Augmented Segment Anything Model for Polyp Segmentation"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-2
 excerpt: 'This paper is about polyp segmentation. '
 date: 2024-07-02
 venue: 'MICCAI'
