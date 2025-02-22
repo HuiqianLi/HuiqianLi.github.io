@@ -13,5 +13,5 @@ I am studying for a master's degree at [IAT](https://iat.ustc.edu.cn/), [Univers
 
 ## undergraduate
 
-My undergraduate courses were completed in [the School of Computer Science](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/). My GPA is 3.58/4.0.
+My undergraduate courses were completed in [the School of Computer Science](https://cs.scu.edu.cn/), [Sichuan University](https://www.scu.edu.cn/). 
 

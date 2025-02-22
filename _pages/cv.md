@@ -17,16 +17,10 @@ Education
 
 Work experience
 ======
-* Jan 2024 - Present: Intern
+* Jan 2024 - Aug 2024
   * HiDream.ai, Machine Learning Engineer, Beijing, China
   * Duties included: Semantic Segmentation, Hair Segmentation
   
-Skills
-======
-* Python、Pytorch
-* PS
-* Data visualization
-
 Publications
 ======
   <ul>{% for post in site.publications %}
